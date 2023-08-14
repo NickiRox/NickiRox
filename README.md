@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickiRox
-- 👀 I’m interested in ... learning Python, learning about UMLs, reading code, 
+- 👀 I’m interested in ... learning Python, learning UMLs, reading code, 
 - 🌱 I’m currently learning ... aforementioned
 - 💞️ I’m looking to collaborate on ... Mobile Apps, automation
 - 📫 How to reach me ... here.
